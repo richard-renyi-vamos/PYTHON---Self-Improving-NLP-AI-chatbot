@@ -1,5 +1,6 @@
-Default (GPT-3.5)
-Custom instructions details
+CHATGPT conversation
+
+-------
 
 User
 create a self improving AI in python
